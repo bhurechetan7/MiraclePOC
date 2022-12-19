@@ -1,0 +1,8 @@
+empid,empname,empphone,empemail,empsatus,empaddress,emprole,empskill
+1,Chetan,5863544719,cbhure@miraclesoft.com,Active,Sterling Heights,App-Developer,JAVA
+2,Salman,5863544719,salman@miraclesoft.com,Active,Rochester Hills,App-Developer,Tester
+3,Sharukh,5863544719,sharukh@miraclesoft.com,Active,Novi,App-Developer,Devops
+4,Sanjay,5863544719,sanjay@miraclesoft.com,Active,Dearborn,App-Developer,APIGEE
+5,Govinda,5863544719,govinda@miraclesoft.com,Active,Warren,App-Developer,PYTHON
+6,Rajpal,5863544719,rajpal@miraclesoft.com,Active,Farmington,App-Developer,Angular
+7,Prabhas,5863544719,prabhas@miraclesoft.com,Active,Troy,App-Developer,MySql
